@@ -37,7 +37,7 @@
 		</PackageReference>
 		<PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="6.0.0" />
 		<PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.17.0" />
-		<PackageReference Include="MudBlazor" Version="6.0.14" />
+		<PackageReference Include="MudBlazor" Version="6.0.15" />
 		<PackageReference Include="NSwag.AspNetCore" Version="13.16.1" />
 		<PackageReference Include="Serilog.AspNetCore" Version="6.0.1" />
 		<PackageReference Include="Serilog.Sinks.Console" Version="4.0.1" />
